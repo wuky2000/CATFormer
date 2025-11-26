@@ -152,7 +152,7 @@ To evaluate the Parameters, FLOPs, and running time of CATFormer:
 python net_test.py
 ```
 
-Images for submission can be download in [Baidu Pan](https://pan.baidu.com/s/1MclLfC7HP0XpM80z4JG5dw?pwd=wuky) (code: `wuky`)
+Images for submission will be uploaded later to facilitate research by others.
 
 
 ## 👩‍⚖️ Acknowledgement
